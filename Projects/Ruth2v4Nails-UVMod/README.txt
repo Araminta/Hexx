@@ -1,3 +1,3 @@
-Modified to allow for different colors on each fingernail and toenail as desired.
+This project has been moved to: 
 
-Original files for Ruth2v4 @ https://github.com/RuthAndRoth
+https://github.com/RuthAndRoth/Ruth2/tree/master/Contrib/AramintaHexx
